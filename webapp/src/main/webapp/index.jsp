@@ -1,6 +1,7 @@
 <h1> Hello, Welcome to Simple DevOps Project</h1>
 <p> Simple automated ci/cd pipeline</p>
 <p> Try it again with Kubernetes</p>
+<h1>Everything updated</h1>
 
 
 <!-- aws s3 mb s3://demojj.k8s.valaxy.net
